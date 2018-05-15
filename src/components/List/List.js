@@ -14,7 +14,7 @@ const list = (props) => {
     return (
         <div className="list">
             {props.list.length === 0 ?
-                <p className="no_currencies"> No chosen cryptocurrencies to show!</p> : transformedCurrencies}
+                <p className="no_currencies"> No chosen cryptocurrencies selected!</p> : transformedCurrencies}
         </div>
     )
 };
