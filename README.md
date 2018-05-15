@@ -1,8 +1,8 @@
-## Crypto Bubble Monitor.  No on knows what any one cyrptocurrency is truely worth, but the blockchain technology that fascilities cyrptocurrency exchange will change the world.
+## No on knows the true value of cryptocurrency, but blockchain technology that supports cyrptocurrency transactions will change the world, possibly more significantly financially than the advent of the internet.  
 
-A simple React app working with [CryptoCompare API](https://www.cryptocompare.com/api/#).
+This project is a React application working with [CryptoCompare API](https://www.cryptocompare.com/api/#).
 
-- React application retrieves the 30 most popular cryptocurrencies
+- Application retrieves the 30 most popular cryptocurrencies
 - Enables user to choose which cryptocurrencie they want to see quoted
 - Details of chosen cryptocurrency are desplayed
 - Displayed cryptocurrencies can be sorted by price
